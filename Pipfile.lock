@@ -1,0 +1,41 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "84b09ab49fe46752ee1c4676cbc9d7c0487dbf3b2aa2e10882350a9174836e17"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.2",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "15.4.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 15.4.0: Fri Feb 26 22:08:05 PST 2016; root:xnu-3248.40.184~3/RELEASE_X86_64",
+            "python_full_version": "3.6.2",
+            "python_version": "3.6",
+            "sys_platform": "darwin"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "telnetlib3": {
+            "hashes": [
+                "sha256:22d1dfddef34b5654a682c338537a02d77fb421160f1cd1622e7c23b5fef1ec2",
+                "sha256:0b056d3b8bc593dd198e69a0e2f2905a85166aab3508b3ac80b910b7c2584f5d"
+            ],
+            "version": "==1.0.0"
+        }
+    },
+    "develop": {}
+}
